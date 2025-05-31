@@ -19,6 +19,7 @@ Welcome to my GitHub — a space where **marketing meets data**, and every proje
 | Project | Description | Tools |
 |--------|-------------|-------|
 | [Cricket WC Dashboard](https://github.com/Karanpreet03/CricketWorldCupDataAnalytics.git) | Interactive Power BI dashboard for Cricket World Cup insights | Power BI, DAX |
+| [Netflix Movies Data Analysis](https://github.com/Karanpreet03/NetflixMoviesDataAnalysis.git) | Comprehensive exploratory data analysis and visualization of Netflix movies dataset using Python libraries | Python, Pandas, Seaborn, Matplotlib |
 
 ---
 
