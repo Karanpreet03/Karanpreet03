@@ -4,8 +4,8 @@
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=Karanpreet03&color=blue&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karanpreet-sachdeva/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:karanpreetsachdeva@gmail.com)
 
 </div>
 
@@ -139,7 +139,7 @@ Comprehensive EDA and visualization of Netflix dataset
 
 **Always open to discussing data, marketing strategies, or collaboration opportunities!**
 
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/karanpreet-sachdeva/])
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karanpreet-sachdeva/)
 [![Email](https://img.shields.io/badge/-Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karanpreetsachdeva@gmail.com)
 
 </div>
