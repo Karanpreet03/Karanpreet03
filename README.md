@@ -77,6 +77,26 @@ Comprehensive EDA and visualization of Netflix dataset
 - 📈 **Outcome**: Published analytical findings
 
 </td>
+<td width="50%">
+
+### 🎬 [Netflix Movies Data Analysis](https://github.com/Karanpreet03/NetflixMoviesDataAnalysis.git)
+Comprehensive EDA and visualization of Netflix dataset
+- **Tools**: Python, Pandas, Seaborn, Matplotlib
+- **Insights**: Content trends, regional preferences
+- 📈 **Outcome**: Published analytical findings
+
+</td>
+<td width="50%">
+
+### 🏨 [Hospitality Data Dashboard](https://github.com/Karanpreet03/HospitalityAnalysis.git)
+Cleaned hospitality dataset and built interactive Power BI dashboard  
+- **Tools**: Power BI, Python (Pandas)  
+- **Process**: Data cleaning, transformation, and visualization  
+- 📊 **Dashboard**: Showcases key KPIs and trends  
+- 📂 **Files**: Cleaned CSVs & Power BI file published on GitHub  
+
+</td>
+
 </tr>
 </table>
 
