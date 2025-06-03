@@ -59,7 +59,7 @@ Welcome to my GitHub — a space where **marketing meets data**, and every proje
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### 🏏 [Cricket WC Dashboard](https://github.com/Karanpreet03/CricketWorldCupDataAnalytics.git)
 Interactive Power BI dashboard for Cricket World Cup insights
@@ -68,7 +68,7 @@ Interactive Power BI dashboard for Cricket World Cup insights
 - ⭐ **Impact**: 10k+ views, featured in analytics community
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ### 🎬 [Netflix Movies Data Analysis](https://github.com/Karanpreet03/NetflixMoviesDataAnalysis.git)
 Comprehensive EDA and visualization of Netflix dataset
@@ -77,16 +77,7 @@ Comprehensive EDA and visualization of Netflix dataset
 - 📈 **Outcome**: Published analytical findings
 
 </td>
-<td width="50%">
-
-### 🎬 [Netflix Movies Data Analysis](https://github.com/Karanpreet03/NetflixMoviesDataAnalysis.git)
-Comprehensive EDA and visualization of Netflix dataset
-- **Tools**: Python, Pandas, Seaborn, Matplotlib
-- **Insights**: Content trends, regional preferences
-- 📈 **Outcome**: Published analytical findings
-
-</td>
-<td width="50%">
+<td width="33%">
 
 ### 🏨 [Hospitality Data Dashboard](https://github.com/Karanpreet03/HospitalityAnalysis.git)
 Cleaned hospitality dataset and built interactive Power BI dashboard  
