@@ -135,14 +135,30 @@ Cleaned hospitality dataset and built interactive Power BI dashboard
 
 ## 📚 Currently Learning
 
-```text
-🔍 Advanced SQL for Marketing Analytics
+```markdown
+🔍 Advanced SQL for Marketing Analytics  
+❄️ Snowflake for Data Warehousing  
 🤖 Machine Learning for Customer Segmentation  
-☁️  Google Cloud Platform (BigQuery, Looker)
-📱 Mobile App Analytics (Firebase, Amplitude)
+☁️ Google Cloud Platform (BigQuery, Looker)  
+📱 Mobile App Analytics (Firebase, Amplitude)  
 ```
 
 ---
+
+---
+
+## 📘 My Guides & Playbooks
+
+🚀 Just published a complete end-to-end **Snowflake Cheat Sheet** for marketers, analysts, and curious data folks.
+
+Includes diagrams, real-world use cases, and beginner-to-advanced SQL tips.
+
+👉 **[Check it out on GitHub](https://github.com/Karanpreet03/SnowflakeResources)**
+
+Stay tuned — more walkthroughs on BigQuery and Looker coming soon!
+
+---
+
 
 ## 💬 Let's Connect!
 
