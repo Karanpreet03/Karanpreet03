@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Karanpreet
-### 📊 Senior Digital Marketing Analyst | Data Storyteller | Performance Strategist
+### 📊 Digital and Omnichannel Performance Advisor @Desjardins Insurance | Data Storyteller | Performance Strategist
 
 <div align="center">
   
@@ -140,7 +140,8 @@ Cleaned hospitality dataset and built interactive Power BI dashboard
 ❄️ Snowflake for Data Warehousing  
 🤖 Machine Learning for Customer Segmentation  
 ☁️ Google Cloud Platform (BigQuery, Looker)  
-📱 Mobile App Analytics (Firebase, Amplitude)  
+📱 Mobile App Analytics (Firebase, Amplitude)
+🤖 SAS programming language for stats and  analytics
 ```
 
 ---
